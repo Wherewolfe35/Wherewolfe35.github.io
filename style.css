@@ -1,9 +1,12 @@
 .body {
-	font-family: "Centaur", "High Tower"
+	font-family: "Centaur", "High Tower";
+	background-image: url("https://wallpapertag.com/wallpaper/full/7/5/d/446965-best-sky-blue-backgrounds-1920x1080-for-htc.jpg");
+	background-size: cover;
+	margin: 0;
 }
 
 .competition{
-	border-bottom: 2px solid black;
+	border-bottom: 4px solid black;
 }
 
 .summary{	
@@ -11,5 +14,5 @@
 }
 
 .work{
-	border-bottom: 2px solid black;
+	
 }
