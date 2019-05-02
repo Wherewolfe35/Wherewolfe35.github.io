@@ -1,3 +1,15 @@
 .body {
 	font-family: "Centaur", "High Tower"
 }
+
+.competition{
+	border-bottom: 2px solid black;
+}
+
+.summary{	
+	border-bottom: 2px solid black;
+}
+
+.work{
+	border-bottom: 2px solid black;
+}
