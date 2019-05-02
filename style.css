@@ -1,8 +1,8 @@
 .competition {
-	background-image: url('https://drive.google.com/open?id=1f9e9bbeLgQdMMmdPp5ajXZKJg6R1aPV1');
+	background-image: url("https://drive.google.com/open?id=1f9e9bbeLgQdMMmdPp5ajXZKJg6R1aPV1");
 	background-position: center top;
 	background-size: cover;
-	padding: 25px 0;
+	padding: 30px 0;
 	margin: 30px;
 	font-family: 'Centaur', 'HighTower';
 }
