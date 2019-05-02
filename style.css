@@ -13,9 +13,13 @@
 
 .summary{	
 	border-bottom: 2px solid black;
+	margin-left: 10px;
+	text-align: center;
 }
 
 .work{	
+	margin-left: 10px;
+	text-align: center;
 }
 
 .me{
