@@ -8,13 +8,23 @@
 
 .competition{
 	border-bottom: 4px solid black;
-	display: inline;
 }
 
 .summary{	
 	border-bottom: 2px solid black;
 }
 
-.work{
-	
+.work{	
+}
+
+.me{
+	float: left;
+}
+
+.name{
+	float: right;
+}
+
+.info{
+	float: right;
 }
