@@ -5,7 +5,7 @@
 	background-size: cover;
 	background-position: center;
 	margin: 0;
-	border: 2px solid darkred;
+	border: 4px ridge darkred;
 }
 .competition{
 	border-bottom: 4px solid black;
