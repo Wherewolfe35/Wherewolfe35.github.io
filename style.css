@@ -30,10 +30,15 @@
 	height: auto;
 }
 
-.container:hover .overlay{
+.me:hover .overlay{
  	opacity: 1;
 } 
 
+.me{
+	position: relative;
+	width: 100%;
+	max-width: 400px;
+}
 .summary{	
 	border-bottom: 2px solid black;
 	margin-left: 10px;
@@ -44,12 +49,6 @@
 	margin-left: 10px;
 	padding-bottom: 5px;
 	text-align: center;
-}
-
-.me{
-	position: relative;
-	width: 100%;
-	max-width: 400px;
 }
 
 .name{
