@@ -6,7 +6,6 @@
 	background-position: center;
 	margin: 0;
 }
-* {box-sizing: border-box;}
 .competition{
 	border-bottom: 4px solid black;
 }
@@ -52,7 +51,6 @@
 }
 
 .name{
-	float: right;
 	display: block;
 }
 
