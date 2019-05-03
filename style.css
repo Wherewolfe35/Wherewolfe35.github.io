@@ -5,6 +5,7 @@
 	background-size: cover;
 	background-position: center;
 	margin: 0;
+	border: 2px solid darkred;
 }
 .competition{
 	border-bottom: 4px solid black;
@@ -58,4 +59,7 @@
 	position: relative;
 	top: 2px;
 }
-	
+
+ul{ 
+	list-style-type: none;
+}
