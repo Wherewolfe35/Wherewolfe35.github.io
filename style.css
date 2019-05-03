@@ -54,6 +54,9 @@
 .name{
 	display: block;
 }
+.linkedin{
+	padding-top: 2px;
+}
 
 .linkedin a:active{
 	position: relative;
