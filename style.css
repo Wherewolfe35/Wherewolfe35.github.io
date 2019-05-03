@@ -10,6 +10,7 @@
 .navbar{
 	display: inline;
 	border: 4px ridge darkred;
+	margin-bottom: 6px;
 }
 .competition{
 	border-bottom: 4px solid black;
