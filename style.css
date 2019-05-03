@@ -42,18 +42,19 @@
 
 .work{	
 	margin-left: 10px;
-	border-bottom: 5px;
+	padding-bottom: 5px;
 	text-align: center;
 }
 
 .me{
 	position: relative;
-	width: 50%;
+	width: 100%;
 	max-width: 400px;
 }
 
 .name{
 	float: right;
+	display: block;
 }
 
 .linkedin a:active{
