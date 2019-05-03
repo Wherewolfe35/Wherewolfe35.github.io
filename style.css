@@ -7,7 +7,7 @@
 	margin: 0;
 	border: 8px ridge darkred;
 }
-#navbar{
+.navbar{
 	display: inline;
 	border: 4px ridge darkred;
 }
