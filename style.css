@@ -39,13 +39,12 @@
 } 
 
 .me{
-	position: relative;
 	width: 100%;
 	max-width: 400px;
+	float: left;
 }
 .metwo{
 	transform: rotateY(180deg);
-	position: relative;
 	width: 100%;
 	max-width: 400px;
 	float: right;
