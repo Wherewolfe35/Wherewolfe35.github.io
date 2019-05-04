@@ -43,6 +43,13 @@
 	width: 100%;
 	max-width: 400px;
 }
+.metwo{
+	transform: rotateY(180deg);
+	position: relative;
+	width: 100%;
+	max-width: 400px;
+	float: right;
+}
 .summary{	
 	border-bottom: 2px solid black;
 	margin-left: 10px;
@@ -56,7 +63,7 @@
 }
 
 .name{
-	display: block;
+	text-align: center;
 }
 .linkedin{
 	padding-top: 4px;
