@@ -47,11 +47,14 @@
 	width: 100%;
 	height: auto;
 }
-
+.imagetwo{
+	display: block;
+	width: 100%;
+	height: auto;
+}	
 .me:hover .overlay{
  	opacity: 1;
 } 
-
 .me{
 	width: 100%;
 	max-width: 400px;
@@ -60,6 +63,7 @@
 
 .metwo:hover .overlaytwo{
  	opacity: 1;
+}
 .metwo{
 	transform: rotateY(180deg);
 	width: 100%;
