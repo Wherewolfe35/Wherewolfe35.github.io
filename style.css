@@ -1,5 +1,5 @@
 body{
-	background-image: url("https://wallpapercave.com/wp/kOdJfq7.jpg") opacity("0.5");
+	background-image: url("https://wallpapercave.com/wp/kOdJfq7.jpg") opacity="0,5";
 	background-size: cover;
 	background-position: center;
 	margin: 0;
