@@ -62,16 +62,18 @@ body{
  	opacity: 1;
 } 
 .me{
-	max-width: 400px;
+	max-width: 500px;
 	float: left;
+	overflow: scroll;
 }
 
 .metwo:hover .overlaytwo{
  	opacity: 1;
 }
 .metwo{
-	max-width: 400px;
+	max-width: 500px;
 	float: right;
+	overflow: scroll;
 }
 .summary{	
 	border-bottom: 2px solid black;
