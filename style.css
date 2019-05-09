@@ -64,7 +64,6 @@ body{
 .me{
 	max-width: 500px;
 	float: left;
-	overflow: scroll;
 }
 
 .metwo:hover .overlaytwo{
@@ -73,7 +72,6 @@ body{
 .metwo{
 	max-width: 500px;
 	float: right;
-	overflow: scroll;
 }
 .summary{	
 	border-bottom: 2px solid black;
