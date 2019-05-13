@@ -76,7 +76,7 @@ body{
 	margin: 0 auto;
 	float: right;
 	position: fixed;
-	left: 700px;
+	left: 1200px;
 }
 .summary{	
 	border-bottom: 2px solid black;
@@ -84,7 +84,7 @@ body{
 	text-align: center;
 }
 .summary p{
-	Padding: 0 200px;
+	Padding: 0 300px;
 }
 
 .work{	
