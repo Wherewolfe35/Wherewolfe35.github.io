@@ -68,7 +68,6 @@ body{
 	position: fixed;
 	left: 5px;
 }
-
 .metwo:hover .overlaytwo{
  	opacity: 1;
 }
@@ -77,13 +76,15 @@ body{
 	margin: 0 auto;
 	float: right;
 	position: fixed;
-	left: 5px;
+	left: 100%;
 }
 .summary{	
 	border-bottom: 2px solid black;
 	margin-left: 10px;
 	text-align: center;
 }
+.summary p{
+	Padding: 0 200px;
 
 .work{	
 	margin-left: 10px;
@@ -98,12 +99,10 @@ body{
 	padding-top: 4px;
 	margin-left: 10px;
 }
-
 .linkedin a:active{
 	position: relative;
 	top: 2px;
 }
-
 ul{ 
 	list-style-type: none;
 }
