@@ -65,6 +65,8 @@ body{
 	max-width: 500px;
 	margin: 0 auto;
 	float: left;
+	position: fixed;
+	left: 5px;
 }
 
 .metwo:hover .overlaytwo{
@@ -74,6 +76,8 @@ body{
 	max-width: 500px;
 	margin: 0 auto;
 	float: right;
+	position: fixed;
+	left: 5px;
 }
 .summary{	
 	border-bottom: 2px solid black;
