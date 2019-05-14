@@ -65,7 +65,7 @@ body{
 	max-width: 500px;
 	margin: 0 auto;
 	float: left;
-	left: 5px;
+	left: 50px;
 }
 .metwo:hover .overlaytwo{
  	opacity: 1;
